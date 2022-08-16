@@ -1,3 +1,0 @@
-File Size: 1.995230902 GB
-Total # of Rows: 8624032
-Total # of Columns: 34
